@@ -16,7 +16,7 @@ The simulator relies on  creature information present in the `beastiary.csv` fil
 It contains all creature present in the D&D 5e SDR and is distributed under the following licence:
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. Copyright 2016, Wizards of the Coast, Inc.
 
-#Documentation
+# Documentation
 This module allows the simulation of a D&D encounter.
 It has three main classes:  Dice, Character, Encounter.
 It also has a csv file (`beastiary.csv`) containing all 5e SDR monsters.
